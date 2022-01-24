@@ -1,5 +1,5 @@
 {
-  "service/display/compartment": {
+  "compartment": {
     "result": true, "datas": [
       {
         "no": 1,
