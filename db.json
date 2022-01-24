@@ -1,0 +1,31 @@
+{
+  "service/display/compartment": {
+    "result": true, "datas": [
+      {
+        "no": 1,
+        "status": "FREE" },
+      {
+        "no": 2,
+        "status": "BUSY",
+        "userId": "61c050ebf93c873da05eaedf", 
+        "user": {
+          "id": "61c050ebf93c873da05eaedf", 
+          "type": "ADMINISTRATOR", 
+          "department": "Bainisys",
+          "groups": ["Bainisys"],
+          "displayName": "bainisys support", 
+          "email": "bainisyssupport@bainisys.com", 
+          "mobile": null
+        } 
+       }
+    ],
+    "errors": null 
+  },
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "test": {
+    "name": "typicode"
+  }
+}
